@@ -1,0 +1,15 @@
+* {
+    background-color: black;
+}
+
+section {
+    font-size: 20px;
+}
+
+.pink-text {
+    color: pink;
+}
+
+#welcome-paragraph {
+    border: 50px solid plum;
+}
