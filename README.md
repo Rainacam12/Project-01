@@ -15,7 +15,7 @@
 3. delete branch
 
 ## in terminal
-1. `git branch -d RC/d-0001`
-2. `git pull origin master`
+1. `git pull origin master`
+2. `git branch -d RC/d-0001`
 3. `git checkout -b RC/d-0002`
 4. **REPEAT**
